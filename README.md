@@ -1,3 +1,6 @@
+# 💫 About Me:
+I’m a Research Scientist with a Ph.D. in High-Energy Physics and over a decade of experience at the intersection of AI, simulation, and scientific computing. My work spans autonomous systems, reinforcement learning, and large-scale simulation environments for safety-critical applications. Most recently, I’ve led initiatives in simulation-driven development and RL-based control for particle accelerators.<br><br>- 🔭 I’m currently working on Agentic AI systems for document-grounded analysis using CrewAI. Unity-based 3D simulation tools with OpenDRIVE integration for traffic agent modeling<br>- 🌱 I’m currently learning advances in agentic architectures and CrewAI-style coordination, differentiable programming applied to control theory<br>- 👯 I’m looking to collaborate on AI-assisted control systems for complex physical machines, and simulation platforms for robotics, AVs, or scientific instrumentation<br>- 🤔 I’m looking for help with building hybrid LLM-agent architectures with reliable memory and planning, and best practices for scalable RL experimentation across heterogeneous simulators<br>- 💬 Ask me about RL for physical systems, Simulators for control and validation, and how to go from CERN to AVs to AI agents<br>- 📫 How to reach me on LinkedIn<br>- ⚡ Fun fact I’ve helped design simulations that model both subatomic particles at CERN and human-scale agents in urban traffic. I also speak Spanish and German fluently and enjoy turning complex research into production-ready tools.<br><br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-contreras-campana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrisjcc.physics@gmail.com) 
@@ -10,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chrisjcc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chrisjcc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chrisjcc&icon=0&color=0)](https://visitcount.itsvg.in)
